@@ -1,0 +1,45 @@
+body {
+    background-color: #ffffff; 
+    text-align: center; 
+    font-family: Arial, sans-serif; 
+}
+
+header {
+    background-color: #d9534f;
+    color: white; 
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+    margin: 0 auto; 
+    max-width: 800px; 
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid #eed66a; 
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0;
+}
+
+ul li {
+    background-color: #f8d7da; 
+    border: 1px solid #d9534f; 
+    margin-bottom: 5px;
+    padding: 10px;
+    color: black;
+}
